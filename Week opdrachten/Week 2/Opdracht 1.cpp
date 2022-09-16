@@ -3,11 +3,11 @@
 
 int main(void)
 {
-	printf("Enter three integers: "); 
-	
+	printf("Enter three integers: ");
+
 	int x, y, z; //declare variables
-	scanf("%d%d%d , &x &y &z "); //read three integers
-	
+	scanf_s("%d%d%d , &x &y &z "); //read three integers
+
 	int result = x * y * z; // multiply the values
 	printf(" The product is %d\n", result); //display the result
 
