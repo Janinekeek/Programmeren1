@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Opdracht 1.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Oefen opdracht.cpp">
+    <ClCompile Include="Arithmetic .cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

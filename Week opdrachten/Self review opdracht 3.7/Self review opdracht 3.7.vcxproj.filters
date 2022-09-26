@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Self review 2.5 .cpp">
+    <ClCompile Include="Calculate x to t he y.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Analysis examination 3.10.cpp">
+    <ClCompile Include="Using if statements, relational and equality operators.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
