@@ -19,13 +19,19 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.13 Using If statments and
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test objects", "..\test objects\test objects.vcxproj", "{468F8DC6-AA5B-4474-9639-FF606C016240}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise 2.21  Shapes with Asterisks", "..\Exercise 2.21  Shapes with Asterisks\Exercise 2.21  Shapes with Asterisks.vcxproj", "{E0417647-B6E8-4398-9994-C624F80525FE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise 2.21 Shapes with Asterisks", "..\Exercise 2.21  Shapes with Asterisks\Exercise 2.21  Shapes with Asterisks.vcxproj", "{E0417647-B6E8-4398-9994-C624F80525FE}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise 2.20 Converting seconds", "..\Exercise 2.20\Exercise 2.20.vcxproj", "{125F214E-C9F4-4AB2-B87C-9ABDB832BBA6}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Self review opdracht 3.7", "..\Self review opdracht 3.7\Self review opdracht 3.7.vcxproj", "{AE7784F5-12AB-4AB0-9D5A-452945B2B4CC}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.4 Finding the maximum of three integers", "..\5.4 Finding the maximum of three integers\5.4 Finding the maximum of three integers.vcxproj", "{4AFD4D7B-F06C-4CE1-9E9F-57448AD00D45}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.3 Creating and using a programmer-defined function", "..\5.3 Creating and using a programmer-defined function\5.3 Creating and using a programmer-defined function.vcxproj", "{C1B4870C-E221-496A-A049-127B40C8F30F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Self review opdracht 4.3", "..\Self review opdracht 4.3\Self review opdracht 4.3.vcxproj", "{DE4C99AC-3633-4762-B396-00F5BAF263DC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise 5.9 Car rental service", "..\Exercise 5.9 Car rental service\Exercise 5.9 Car rental service.vcxproj", "{E652F58E-3FF3-42B7-BBAE-EE7EADEE9EFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -131,6 +137,30 @@ Global
 		{4AFD4D7B-F06C-4CE1-9E9F-57448AD00D45}.Release|x64.Build.0 = Release|x64
 		{4AFD4D7B-F06C-4CE1-9E9F-57448AD00D45}.Release|x86.ActiveCfg = Release|Win32
 		{4AFD4D7B-F06C-4CE1-9E9F-57448AD00D45}.Release|x86.Build.0 = Release|Win32
+		{C1B4870C-E221-496A-A049-127B40C8F30F}.Debug|x64.ActiveCfg = Debug|x64
+		{C1B4870C-E221-496A-A049-127B40C8F30F}.Debug|x64.Build.0 = Debug|x64
+		{C1B4870C-E221-496A-A049-127B40C8F30F}.Debug|x86.ActiveCfg = Debug|Win32
+		{C1B4870C-E221-496A-A049-127B40C8F30F}.Debug|x86.Build.0 = Debug|Win32
+		{C1B4870C-E221-496A-A049-127B40C8F30F}.Release|x64.ActiveCfg = Release|x64
+		{C1B4870C-E221-496A-A049-127B40C8F30F}.Release|x64.Build.0 = Release|x64
+		{C1B4870C-E221-496A-A049-127B40C8F30F}.Release|x86.ActiveCfg = Release|Win32
+		{C1B4870C-E221-496A-A049-127B40C8F30F}.Release|x86.Build.0 = Release|Win32
+		{DE4C99AC-3633-4762-B396-00F5BAF263DC}.Debug|x64.ActiveCfg = Debug|x64
+		{DE4C99AC-3633-4762-B396-00F5BAF263DC}.Debug|x64.Build.0 = Debug|x64
+		{DE4C99AC-3633-4762-B396-00F5BAF263DC}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE4C99AC-3633-4762-B396-00F5BAF263DC}.Debug|x86.Build.0 = Debug|Win32
+		{DE4C99AC-3633-4762-B396-00F5BAF263DC}.Release|x64.ActiveCfg = Release|x64
+		{DE4C99AC-3633-4762-B396-00F5BAF263DC}.Release|x64.Build.0 = Release|x64
+		{DE4C99AC-3633-4762-B396-00F5BAF263DC}.Release|x86.ActiveCfg = Release|Win32
+		{DE4C99AC-3633-4762-B396-00F5BAF263DC}.Release|x86.Build.0 = Release|Win32
+		{E652F58E-3FF3-42B7-BBAE-EE7EADEE9EFB}.Debug|x64.ActiveCfg = Debug|x64
+		{E652F58E-3FF3-42B7-BBAE-EE7EADEE9EFB}.Debug|x64.Build.0 = Debug|x64
+		{E652F58E-3FF3-42B7-BBAE-EE7EADEE9EFB}.Debug|x86.ActiveCfg = Debug|Win32
+		{E652F58E-3FF3-42B7-BBAE-EE7EADEE9EFB}.Debug|x86.Build.0 = Debug|Win32
+		{E652F58E-3FF3-42B7-BBAE-EE7EADEE9EFB}.Release|x64.ActiveCfg = Release|x64
+		{E652F58E-3FF3-42B7-BBAE-EE7EADEE9EFB}.Release|x64.Build.0 = Release|x64
+		{E652F58E-3FF3-42B7-BBAE-EE7EADEE9EFB}.Release|x86.ActiveCfg = Release|Win32
+		{E652F58E-3FF3-42B7-BBAE-EE7EADEE9EFB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
