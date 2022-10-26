@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{468f8dc6-aa5b-4474-9639-ff606c016240}</ProjectGuid>
-    <RootNamespace>testobjects</RootNamespace>
+    <ProjectGuid>{38feafb5-72b5-4e19-ae0b-da1f709e69c2}</ProjectGuid>
+    <RootNamespace>Herhalingweek456</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,8 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Test 2.cpp" />
-    <ClCompile Include="Test.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

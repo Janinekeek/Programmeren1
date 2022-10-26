@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{468f8dc6-aa5b-4474-9639-ff606c016240}</ProjectGuid>
-    <RootNamespace>testobjects</RootNamespace>
+    <ProjectGuid>{d40b3a33-c776-4ab5-bd73-f6dc55f282d3}</ProjectGuid>
+    <RootNamespace>My511Shiftedscaledrandomintegers</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,8 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Test 2.cpp" />
-    <ClCompile Include="Test.cpp" />
+    <ClCompile Include="Rolling a Six-sided dice.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
